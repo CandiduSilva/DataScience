@@ -5,16 +5,13 @@
 </p>
 
 # Cândido Silva
-<sub>*Administrador - Data Science*</sub>
-
-Colocar a decxreição
+<sub>*Administrador - Gestão Empresarial - Data Science*</sub>
 
 
 **Background in:** SQL, Python.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/cândidosilva)
-
 
 
 ## Projetos:
