@@ -16,7 +16,7 @@
 
 ## Projetos:
 
-* **Analisando os dados do Airbnb da cidade de Montreal:** colar o link encurtado do notebook
+* **Analisando os dados do Airbnb da cidade de Montreal:** https://bit.ly/3B5OGJY
 
 ---
 
